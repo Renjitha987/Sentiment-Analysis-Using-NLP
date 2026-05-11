@@ -41,4 +41,32 @@ Various evaluation metrics and visualizations such as confusion matrix and senti
 * Sentiment distribution visualization
 * Custom sentiment prediction
 
+#Sentiment Classification
+
+Logistic Regression was used to classify movie reviews into:
+
+Positive Sentiment
+Negative Sentiment
+
+The model was trained using processed textual data and achieved good prediction accuracy.
+
+#Data Visualization
+
+Multiple visualizations were created to analyze dataset patterns and model performance:
+
+Sentiment Distribution Chart
+Confusion Matrix Heatmap
+Review Length Distribution
+Frequent Word Analysis
+Accuracy Visualization
+
+# Key Insights
+
+The dataset contained thousands of positive and negative movie reviews.
+Text preprocessing improved the quality of sentiment classification.
+Logistic Regression achieved good accuracy for sentiment prediction.
+CountVectorizer effectively converted textual data into numerical form.
+Visualization techniques improved understanding of sentiment distribution and model performance.
+The trained model successfully predicted sentiments for custom user reviews.
+
 Output
