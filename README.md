@@ -70,3 +70,20 @@ Visualization techniques improved understanding of sentiment distribution and mo
 The trained model successfully predicted sentiments for custom user reviews.
 
 Output
+
+<img width="1317" height="522" alt="Image" src="https://github.com/user-attachments/assets/3507866f-b8ec-496c-a2be-e1603013f049" />
+
+
+<img width="802" height="467" alt="Image" src="https://github.com/user-attachments/assets/e6b2f11e-b36e-4325-9c46-829409558046" />
+
+
+<img width="1043" height="598" alt="Image" src="https://github.com/user-attachments/assets/38753a80-40be-4850-83a5-8e561cedf16d" />
+
+
+<img width="1035" height="610" alt="Image" src="https://github.com/user-attachments/assets/58701afe-7c86-48fd-bfda-7f4ad04abe38" />
+
+
+<img width="1398" height="505" alt="Image" src="https://github.com/user-attachments/assets/0e1386e7-71b8-46ea-8b07-6f472a0e283c" />
+
+
+<img width="1151" height="586" alt="Image" src="https://github.com/user-attachments/assets/4f3f0ddc-6047-49ad-91c0-8f1b9914a4f8" />
