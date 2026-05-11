@@ -19,14 +19,15 @@ The project includes text preprocessing, stopword removal, feature extraction us
 Various evaluation metrics and visualizations such as confusion matrix and sentiment distribution charts were used to analyze model performance. The project also supports custom sentiment prediction for user-entered reviews.
 
 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-NLTK
-Scikit-learn
-Jupyter Notebook
+ Python
+ Pandas
+ NumPy
+ Matplotlib
+ Seaborn
+ NLTK
+ Scikit-learn
+ Jupyter Notebook
+
 
 Features
 Text preprocessing and cleaning
